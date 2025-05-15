@@ -63,6 +63,9 @@
     z-index: 1000;
     color: white;
   }
+  .modal__user_perc {
+    color: aquamarine;
+  }
   @media screen and (max-height: 768px) {
     .wrapper-modal {
       align-items: unset;
@@ -96,4 +99,5 @@
       transform: scale(1);
     }
   }
+
   
